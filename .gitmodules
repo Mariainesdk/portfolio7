@@ -1,3 +1,6 @@
 [submodule "test5/themes/Introduction"]
 	path = test5/themes/Introduction
 	url = https://github.com/hivickylai/hugo-theme-introduction.git
+[submodule "portfolio6/themes/hugo-creative-portfolio-theme"]
+	path = portfolio6/themes/hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
